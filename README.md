@@ -112,6 +112,11 @@ task_b
 
 Then draw one arrow: `task_a -> task_b`.
 
+In the Airflow UI, it should look like:
+
+![1_simple_two_tasks](examples/excalidraw/1_simple_two_tasks.png)
+
+
 ### 2. DAG with BashOperator and PythonOperator
 
 Use these text blocks:
@@ -145,6 +150,11 @@ python_callable = greet
 ```
 
 Then draw one arrow: `bash_task -> python_task`.
+
+In the Airflow UI, it should look like:
+
+![1_simple_two_tasks](examples/excalidraw/2_bash_and_python.png)
+
 
 
 ## Example files
