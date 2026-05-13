@@ -1,0 +1,4 @@
+from airflow_sketcher.dag_factory import register_airflow_sketcher_importer
+
+
+register_airflow_sketcher_importer()

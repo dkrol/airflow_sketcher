@@ -1,0 +1,1055 @@
+[
+    {
+        "label": "runpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "runpy",
+        "description": "runpy",
+        "detail": "runpy",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_OPERATOR_CLASS_PATH",
+        "importPath": "airflow_sketcher.dag_factory",
+        "description": "airflow_sketcher.dag_factory",
+        "isExtraImport": true,
+        "detail": "airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "EXCALIDRAW_SOURCE_PARAM_KEY",
+        "importPath": "airflow_sketcher.dag_factory",
+        "description": "airflow_sketcher.dag_factory",
+        "isExtraImport": true,
+        "detail": "airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "ExcalidrawDagImporter",
+        "importPath": "airflow_sketcher.dag_factory",
+        "description": "airflow_sketcher.dag_factory",
+        "isExtraImport": true,
+        "detail": "airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_value",
+        "importPath": "airflow_sketcher.dag_factory",
+        "description": "airflow_sketcher.dag_factory",
+        "isExtraImport": true,
+        "detail": "airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "execute_python_value",
+        "importPath": "airflow_sketcher.dag_factory",
+        "description": "airflow_sketcher.dag_factory",
+        "isExtraImport": true,
+        "detail": "airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "extract_evaluation_namespace",
+        "importPath": "airflow_sketcher.dag_factory",
+        "description": "airflow_sketcher.dag_factory",
+        "isExtraImport": true,
+        "detail": "airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "extract_import_namespace",
+        "importPath": "airflow_sketcher.dag_factory",
+        "description": "airflow_sketcher.dag_factory",
+        "isExtraImport": true,
+        "detail": "airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "extract_vars_namespace",
+        "importPath": "airflow_sketcher.dag_factory",
+        "description": "airflow_sketcher.dag_factory",
+        "isExtraImport": true,
+        "detail": "airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "get_active_elements",
+        "importPath": "airflow_sketcher.dag_factory",
+        "description": "airflow_sketcher.dag_factory",
+        "isExtraImport": true,
+        "detail": "airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "get_task_config_from_text",
+        "importPath": "airflow_sketcher.dag_factory",
+        "description": "airflow_sketcher.dag_factory",
+        "isExtraImport": true,
+        "detail": "airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "get_text_for_rectangle",
+        "importPath": "airflow_sketcher.dag_factory",
+        "description": "airflow_sketcher.dag_factory",
+        "isExtraImport": true,
+        "detail": "airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "instantiate_task_node",
+        "importPath": "airflow_sketcher.dag_factory",
+        "description": "airflow_sketcher.dag_factory",
+        "isExtraImport": true,
+        "detail": "airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "is_text_inside_rectangle",
+        "importPath": "airflow_sketcher.dag_factory",
+        "description": "airflow_sketcher.dag_factory",
+        "isExtraImport": true,
+        "detail": "airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "parse_excalidraw_to_dag",
+        "importPath": "airflow_sketcher.dag_factory",
+        "description": "airflow_sketcher.dag_factory",
+        "isExtraImport": true,
+        "detail": "airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "parse_task_argument_blocks",
+        "importPath": "airflow_sketcher.dag_factory",
+        "description": "airflow_sketcher.dag_factory",
+        "isExtraImport": true,
+        "detail": "airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "parse_value",
+        "importPath": "airflow_sketcher.dag_factory",
+        "description": "airflow_sketcher.dag_factory",
+        "isExtraImport": true,
+        "detail": "airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "register_airflow_sketcher_importer",
+        "importPath": "airflow_sketcher.dag_factory",
+        "description": "airflow_sketcher.dag_factory",
+        "isExtraImport": true,
+        "detail": "airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "resolve_operator_class",
+        "importPath": "airflow_sketcher.dag_factory",
+        "description": "airflow_sketcher.dag_factory",
+        "isExtraImport": true,
+        "detail": "airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "register_airflow_sketcher_importer",
+        "importPath": "airflow_sketcher.dag_factory",
+        "description": "airflow_sketcher.dag_factory",
+        "isExtraImport": true,
+        "detail": "airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "register_airflow_sketcher_importer",
+        "importPath": "airflow_sketcher.dag_factory",
+        "description": "airflow_sketcher.dag_factory",
+        "isExtraImport": true,
+        "detail": "airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "register_airflow_sketcher_importer",
+        "importPath": "airflow_sketcher.dag_factory",
+        "description": "airflow_sketcher.dag_factory",
+        "isExtraImport": true,
+        "detail": "airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "EXCALIDRAW_SOURCE_PARAM_KEY",
+        "importPath": "airflow_sketcher.dag_factory",
+        "description": "airflow_sketcher.dag_factory",
+        "isExtraImport": true,
+        "detail": "airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "parse_excalidraw_to_dag",
+        "importPath": "airflow_sketcher.dag_factory",
+        "description": "airflow_sketcher.dag_factory",
+        "isExtraImport": true,
+        "detail": "airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "AirflowSketcherPlugin",
+        "importPath": "airflow_sketcher.plugins.builder",
+        "description": "airflow_sketcher.plugins.builder",
+        "isExtraImport": true,
+        "detail": "airflow_sketcher.plugins.builder",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "deepcopy",
+        "importPath": "copy",
+        "description": "copy",
+        "isExtraImport": true,
+        "detail": "copy",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTMLResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "DagBag",
+        "importPath": "airflow.models.dagbag",
+        "description": "airflow.models.dagbag",
+        "isExtraImport": true,
+        "detail": "airflow.models.dagbag",
+        "documentation": {}
+    },
+    {
+        "label": "AirflowPlugin",
+        "importPath": "airflow.plugins_manager",
+        "description": "airflow.plugins_manager",
+        "isExtraImport": true,
+        "detail": "airflow.plugins_manager",
+        "documentation": {}
+    },
+    {
+        "label": "DAGS_FOLDER",
+        "importPath": "airflow.settings",
+        "description": "airflow.settings",
+        "isExtraImport": true,
+        "detail": "airflow.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ast",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ast",
+        "description": "ast",
+        "detail": "ast",
+        "documentation": {}
+    },
+    {
+        "label": "literal_eval",
+        "importPath": "ast",
+        "description": "ast",
+        "isExtraImport": true,
+        "detail": "ast",
+        "documentation": {}
+    },
+    {
+        "label": "builtins",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "builtins",
+        "description": "builtins",
+        "detail": "builtins",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "importlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "importlib",
+        "description": "importlib",
+        "detail": "importlib",
+        "documentation": {}
+    },
+    {
+        "label": "inspect",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "inspect",
+        "description": "inspect",
+        "detail": "inspect",
+        "documentation": {}
+    },
+    {
+        "label": "traceback",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "traceback",
+        "description": "traceback",
+        "detail": "traceback",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractDagImporter",
+        "importPath": "airflow.dag_processing.importers",
+        "description": "airflow.dag_processing.importers",
+        "isExtraImport": true,
+        "detail": "airflow.dag_processing.importers",
+        "documentation": {}
+    },
+    {
+        "label": "DagImportError",
+        "importPath": "airflow.dag_processing.importers",
+        "description": "airflow.dag_processing.importers",
+        "isExtraImport": true,
+        "detail": "airflow.dag_processing.importers",
+        "documentation": {}
+    },
+    {
+        "label": "DagImportResult",
+        "importPath": "airflow.dag_processing.importers",
+        "description": "airflow.dag_processing.importers",
+        "isExtraImport": true,
+        "detail": "airflow.dag_processing.importers",
+        "documentation": {}
+    },
+    {
+        "label": "get_importer_registry",
+        "importPath": "airflow.dag_processing.importers",
+        "description": "airflow.dag_processing.importers",
+        "isExtraImport": true,
+        "detail": "airflow.dag_processing.importers",
+        "documentation": {}
+    },
+    {
+        "label": "DAG",
+        "importPath": "airflow.sdk",
+        "description": "airflow.sdk",
+        "isExtraImport": true,
+        "detail": "airflow.sdk",
+        "documentation": {}
+    },
+    {
+        "label": "importlib.util",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "importlib.util",
+        "description": "importlib.util",
+        "detail": "importlib.util",
+        "documentation": {}
+    },
+    {
+        "label": "types",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "types",
+        "description": "types",
+        "detail": "types",
+        "documentation": {}
+    },
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "install_airflow_stubs",
+        "importPath": "tests.support.airflow_stubs",
+        "description": "tests.support.airflow_stubs",
+        "isExtraImport": true,
+        "detail": "tests.support.airflow_stubs",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"airflow-sketch\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.14/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"airflow-sketch\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.14/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"airflow-sketch\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.14/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"airflow-sketch\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.14/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"airflow-sketch\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.14/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"../lib/python3.14/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "examples.airflow.plugins.airflow_sketcher_plugin",
+        "description": "examples.airflow.plugins.airflow_sketcher_plugin",
+        "peekOfCode": "__all__ = ['AirflowSketcherPlugin']",
+        "detail": "examples.airflow.plugins.airflow_sketcher_plugin",
+        "documentation": {}
+    },
+    {
+        "label": "SaveFileRequest",
+        "kind": 6,
+        "importPath": "src.airflow_sketcher.plugins.builder",
+        "description": "src.airflow_sketcher.plugins.builder",
+        "peekOfCode": "class SaveFileRequest(BaseModel):\n    filename: str\n    content: dict\ndef normalize_filename(filename: str) -> str:\n    cleaned = filename.strip()\n    if not cleaned:\n        raise HTTPException(status_code=400, detail=\"Filename is required\")\n    if not cleaned.endswith(DEFAULT_FILE_EXTENSION):\n        cleaned = f\"{cleaned}{DEFAULT_FILE_EXTENSION}\"\n    if not SAFE_FILENAME_PATTERN.fullmatch(cleaned):",
+        "detail": "src.airflow_sketcher.plugins.builder",
+        "documentation": {}
+    },
+    {
+        "label": "AirflowSketcherPlugin",
+        "kind": 6,
+        "importPath": "src.airflow_sketcher.plugins.builder",
+        "description": "src.airflow_sketcher.plugins.builder",
+        "peekOfCode": "class AirflowSketcherPlugin(AirflowPlugin):\n    name = \"airflow_sketcher\"\n    fastapi_apps = [\n        {\n            \"app\": app,\n            \"url_prefix\": PLUGIN_URL_PREFIX,\n            \"name\": \"Airflow Sketcher API\",\n        }\n    ]\n    external_views = [",
+        "detail": "src.airflow_sketcher.plugins.builder",
+        "documentation": {}
+    },
+    {
+        "label": "normalize_filename",
+        "kind": 2,
+        "importPath": "src.airflow_sketcher.plugins.builder",
+        "description": "src.airflow_sketcher.plugins.builder",
+        "peekOfCode": "def normalize_filename(filename: str) -> str:\n    cleaned = filename.strip()\n    if not cleaned:\n        raise HTTPException(status_code=400, detail=\"Filename is required\")\n    if not cleaned.endswith(DEFAULT_FILE_EXTENSION):\n        cleaned = f\"{cleaned}{DEFAULT_FILE_EXTENSION}\"\n    if not SAFE_FILENAME_PATTERN.fullmatch(cleaned):\n        raise HTTPException(\n            status_code=400,\n            detail=\"Filename may only contain letters, numbers, dots, dashes, and underscores\",",
+        "detail": "src.airflow_sketcher.plugins.builder",
+        "documentation": {}
+    },
+    {
+        "label": "resolve_dag_file_path",
+        "kind": 2,
+        "importPath": "src.airflow_sketcher.plugins.builder",
+        "description": "src.airflow_sketcher.plugins.builder",
+        "peekOfCode": "def resolve_dag_file_path(filename: str) -> Path:\n    normalized = normalize_filename(filename)\n    file_path = (DAGS_DIRECTORY / normalized).resolve()\n    if file_path.parent != DAGS_DIRECTORY:\n        raise HTTPException(status_code=400, detail=\"Invalid filename\")\n    return file_path\ndef build_empty_scene() -> dict:\n    return {\n        \"type\": \"excalidraw\",\n        \"version\": 2,",
+        "detail": "src.airflow_sketcher.plugins.builder",
+        "documentation": {}
+    },
+    {
+        "label": "build_empty_scene",
+        "kind": 2,
+        "importPath": "src.airflow_sketcher.plugins.builder",
+        "description": "src.airflow_sketcher.plugins.builder",
+        "peekOfCode": "def build_empty_scene() -> dict:\n    return {\n        \"type\": \"excalidraw\",\n        \"version\": 2,\n        \"source\": SCENE_SOURCE,\n        \"elements\": [],\n        \"appState\": deepcopy(DEFAULT_SCENE_APP_STATE),\n        \"files\": {},\n    }\ndef extract_dag_attributes_from_scene(payload: dict, fallback_filename: str) -> dict:",
+        "detail": "src.airflow_sketcher.plugins.builder",
+        "documentation": {}
+    },
+    {
+        "label": "extract_dag_attributes_from_scene",
+        "kind": 2,
+        "importPath": "src.airflow_sketcher.plugins.builder",
+        "description": "src.airflow_sketcher.plugins.builder",
+        "peekOfCode": "def extract_dag_attributes_from_scene(payload: dict, fallback_filename: str) -> dict:\n    dag_attrs = {}\n    for element in payload.get(\"elements\", []):\n        if element.get(\"type\") != \"text\":\n            continue\n        text = element.get(\"text\", \"\")\n        if not text.startswith(\"dag:\"):\n            continue\n        for line in text.splitlines()[1:]:\n            if \"=\" not in line:",
+        "detail": "src.airflow_sketcher.plugins.builder",
+        "documentation": {}
+    },
+    {
+        "label": "get_dag_source_from_params",
+        "kind": 2,
+        "importPath": "src.airflow_sketcher.plugins.builder",
+        "description": "src.airflow_sketcher.plugins.builder",
+        "peekOfCode": "def get_dag_source_from_params(dag_id: str) -> str | None:\n    try:\n        dag_bag = DagBag(read_dags_from_db=True)\n        dag = dag_bag.get_dag(dag_id)\n    except Exception:\n        return None\n    if dag is None:\n        return None\n    params = getattr(dag, \"params\", None)\n    if not params:",
+        "detail": "src.airflow_sketcher.plugins.builder",
+        "documentation": {}
+    },
+    {
+        "label": "find_excalidraw_file_for_dag",
+        "kind": 2,
+        "importPath": "src.airflow_sketcher.plugins.builder",
+        "description": "src.airflow_sketcher.plugins.builder",
+        "peekOfCode": "def find_excalidraw_file_for_dag(dag_id: str) -> str | None:\n    source_from_params = get_dag_source_from_params(dag_id)\n    if source_from_params is not None:\n        return source_from_params\n    for file_path in sorted(DAGS_DIRECTORY.glob(f\"*{DEFAULT_FILE_EXTENSION}\")):\n        try:\n            payload = json.loads(file_path.read_text(encoding=\"utf-8\"))\n        except (OSError, json.JSONDecodeError):\n            continue\n        dag_attrs = extract_dag_attributes_from_scene(payload, file_path.name)",
+        "detail": "src.airflow_sketcher.plugins.builder",
+        "documentation": {}
+    },
+    {
+        "label": "build_plugin_icon_svg",
+        "kind": 2,
+        "importPath": "src.airflow_sketcher.plugins.builder",
+        "description": "src.airflow_sketcher.plugins.builder",
+        "peekOfCode": "def build_plugin_icon_svg(*, background: str, stroke: str) -> str:\n    return f\"\"\"\n<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\" fill=\"none\">\n  <rect x=\"6\" y=\"6\" width=\"52\" height=\"52\" rx=\"16\" fill=\"{background}\" />\n  <path d=\"M20 42 L32 22 L44 34\" stroke=\"{stroke}\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" />\n  <circle cx=\"20\" cy=\"42\" r=\"4\" fill=\"{stroke}\" />\n  <circle cx=\"32\" cy=\"22\" r=\"4\" fill=\"{stroke}\" />\n  <circle cx=\"44\" cy=\"34\" r=\"4\" fill=\"{stroke}\" />\n  <path d=\"M24 48 H40\" stroke=\"{stroke}\" stroke-width=\"3\" stroke-linecap=\"round\" opacity=\"0.85\" />\n</svg>",
+        "detail": "src.airflow_sketcher.plugins.builder",
+        "documentation": {}
+    },
+    {
+        "label": "sanitize_loaded_app_state",
+        "kind": 2,
+        "importPath": "src.airflow_sketcher.plugins.builder",
+        "description": "src.airflow_sketcher.plugins.builder",
+        "peekOfCode": "def sanitize_loaded_app_state(app_state: dict | None) -> dict:\n    if not isinstance(app_state, dict):\n        return deepcopy(DEFAULT_SCENE_APP_STATE)\n    sanitized = deepcopy(DEFAULT_SCENE_APP_STATE)\n    for key in LOADED_SCENE_APP_STATE_KEYS:\n        value = app_state.get(key)\n        if value is not None:\n            sanitized[key] = value\n    return sanitized\ndef normalize_scene_payload(payload: dict) -> dict:",
+        "detail": "src.airflow_sketcher.plugins.builder",
+        "documentation": {}
+    },
+    {
+        "label": "normalize_scene_payload",
+        "kind": 2,
+        "importPath": "src.airflow_sketcher.plugins.builder",
+        "description": "src.airflow_sketcher.plugins.builder",
+        "peekOfCode": "def normalize_scene_payload(payload: dict) -> dict:\n    scene = build_empty_scene()\n    scene.update(payload)\n    scene[\"type\"] = \"excalidraw\"\n    scene[\"version\"] = payload.get(\"version\", 2)\n    scene[\"source\"] = payload.get(\"source\", SCENE_SOURCE)\n    scene[\"elements\"] = payload.get(\"elements\", [])\n    scene[\"appState\"] = sanitize_loaded_app_state(payload.get(\"appState\"))\n    scene[\"files\"] = payload.get(\"files\", {})\n    return scene",
+        "detail": "src.airflow_sketcher.plugins.builder",
+        "documentation": {}
+    },
+    {
+        "label": "render_html",
+        "kind": 2,
+        "importPath": "src.airflow_sketcher.plugins.builder",
+        "description": "src.airflow_sketcher.plugins.builder",
+        "peekOfCode": "def render_html() -> str:\n    return \"\"\"\n<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <title>Airflow Sketcher</title>\n    <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\" />\n    <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossorigin />",
+        "detail": "src.airflow_sketcher.plugins.builder",
+        "documentation": {}
+    },
+    {
+        "label": "PLUGIN_URL_PREFIX",
+        "kind": 5,
+        "importPath": "src.airflow_sketcher.plugins.builder",
+        "description": "src.airflow_sketcher.plugins.builder",
+        "peekOfCode": "PLUGIN_URL_PREFIX = \"/airflow-sketcher\"\nPLUGIN_ICON_LIGHT_PATH = \"/icon.svg\"\nPLUGIN_ICON_DARK_PATH = \"/icon-dark.svg\"\nDEFAULT_FILE_EXTENSION = \".excalidraw\"\nSAFE_FILENAME_PATTERN = re.compile(r\"^[A-Za-z0-9_.-]+$\")\nDAGS_DIRECTORY = Path(DAGS_FOLDER).resolve()\nSCENE_SOURCE = \"airflow-sketcher-builder\"\nDAG_SOURCE_PARAM_KEY = \"excalidraw_source_file\"\nDEFAULT_SCENE_APP_STATE = {\n    \"viewBackgroundColor\": \"#f7f1e8\",",
+        "detail": "src.airflow_sketcher.plugins.builder",
+        "documentation": {}
+    },
+    {
+        "label": "PLUGIN_ICON_LIGHT_PATH",
+        "kind": 5,
+        "importPath": "src.airflow_sketcher.plugins.builder",
+        "description": "src.airflow_sketcher.plugins.builder",
+        "peekOfCode": "PLUGIN_ICON_LIGHT_PATH = \"/icon.svg\"\nPLUGIN_ICON_DARK_PATH = \"/icon-dark.svg\"\nDEFAULT_FILE_EXTENSION = \".excalidraw\"\nSAFE_FILENAME_PATTERN = re.compile(r\"^[A-Za-z0-9_.-]+$\")\nDAGS_DIRECTORY = Path(DAGS_FOLDER).resolve()\nSCENE_SOURCE = \"airflow-sketcher-builder\"\nDAG_SOURCE_PARAM_KEY = \"excalidraw_source_file\"\nDEFAULT_SCENE_APP_STATE = {\n    \"viewBackgroundColor\": \"#f7f1e8\",\n    \"gridSize\": 20,",
+        "detail": "src.airflow_sketcher.plugins.builder",
+        "documentation": {}
+    },
+    {
+        "label": "PLUGIN_ICON_DARK_PATH",
+        "kind": 5,
+        "importPath": "src.airflow_sketcher.plugins.builder",
+        "description": "src.airflow_sketcher.plugins.builder",
+        "peekOfCode": "PLUGIN_ICON_DARK_PATH = \"/icon-dark.svg\"\nDEFAULT_FILE_EXTENSION = \".excalidraw\"\nSAFE_FILENAME_PATTERN = re.compile(r\"^[A-Za-z0-9_.-]+$\")\nDAGS_DIRECTORY = Path(DAGS_FOLDER).resolve()\nSCENE_SOURCE = \"airflow-sketcher-builder\"\nDAG_SOURCE_PARAM_KEY = \"excalidraw_source_file\"\nDEFAULT_SCENE_APP_STATE = {\n    \"viewBackgroundColor\": \"#f7f1e8\",\n    \"gridSize\": 20,\n    \"gridStep\": 5,",
+        "detail": "src.airflow_sketcher.plugins.builder",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_FILE_EXTENSION",
+        "kind": 5,
+        "importPath": "src.airflow_sketcher.plugins.builder",
+        "description": "src.airflow_sketcher.plugins.builder",
+        "peekOfCode": "DEFAULT_FILE_EXTENSION = \".excalidraw\"\nSAFE_FILENAME_PATTERN = re.compile(r\"^[A-Za-z0-9_.-]+$\")\nDAGS_DIRECTORY = Path(DAGS_FOLDER).resolve()\nSCENE_SOURCE = \"airflow-sketcher-builder\"\nDAG_SOURCE_PARAM_KEY = \"excalidraw_source_file\"\nDEFAULT_SCENE_APP_STATE = {\n    \"viewBackgroundColor\": \"#f7f1e8\",\n    \"gridSize\": 20,\n    \"gridStep\": 5,\n}",
+        "detail": "src.airflow_sketcher.plugins.builder",
+        "documentation": {}
+    },
+    {
+        "label": "SAFE_FILENAME_PATTERN",
+        "kind": 5,
+        "importPath": "src.airflow_sketcher.plugins.builder",
+        "description": "src.airflow_sketcher.plugins.builder",
+        "peekOfCode": "SAFE_FILENAME_PATTERN = re.compile(r\"^[A-Za-z0-9_.-]+$\")\nDAGS_DIRECTORY = Path(DAGS_FOLDER).resolve()\nSCENE_SOURCE = \"airflow-sketcher-builder\"\nDAG_SOURCE_PARAM_KEY = \"excalidraw_source_file\"\nDEFAULT_SCENE_APP_STATE = {\n    \"viewBackgroundColor\": \"#f7f1e8\",\n    \"gridSize\": 20,\n    \"gridStep\": 5,\n}\nLOADED_SCENE_APP_STATE_KEYS = {",
+        "detail": "src.airflow_sketcher.plugins.builder",
+        "documentation": {}
+    },
+    {
+        "label": "DAGS_DIRECTORY",
+        "kind": 5,
+        "importPath": "src.airflow_sketcher.plugins.builder",
+        "description": "src.airflow_sketcher.plugins.builder",
+        "peekOfCode": "DAGS_DIRECTORY = Path(DAGS_FOLDER).resolve()\nSCENE_SOURCE = \"airflow-sketcher-builder\"\nDAG_SOURCE_PARAM_KEY = \"excalidraw_source_file\"\nDEFAULT_SCENE_APP_STATE = {\n    \"viewBackgroundColor\": \"#f7f1e8\",\n    \"gridSize\": 20,\n    \"gridStep\": 5,\n}\nLOADED_SCENE_APP_STATE_KEYS = {\n    \"gridModeEnabled\",",
+        "detail": "src.airflow_sketcher.plugins.builder",
+        "documentation": {}
+    },
+    {
+        "label": "SCENE_SOURCE",
+        "kind": 5,
+        "importPath": "src.airflow_sketcher.plugins.builder",
+        "description": "src.airflow_sketcher.plugins.builder",
+        "peekOfCode": "SCENE_SOURCE = \"airflow-sketcher-builder\"\nDAG_SOURCE_PARAM_KEY = \"excalidraw_source_file\"\nDEFAULT_SCENE_APP_STATE = {\n    \"viewBackgroundColor\": \"#f7f1e8\",\n    \"gridSize\": 20,\n    \"gridStep\": 5,\n}\nLOADED_SCENE_APP_STATE_KEYS = {\n    \"gridModeEnabled\",\n    \"gridSize\",",
+        "detail": "src.airflow_sketcher.plugins.builder",
+        "documentation": {}
+    },
+    {
+        "label": "DAG_SOURCE_PARAM_KEY",
+        "kind": 5,
+        "importPath": "src.airflow_sketcher.plugins.builder",
+        "description": "src.airflow_sketcher.plugins.builder",
+        "peekOfCode": "DAG_SOURCE_PARAM_KEY = \"excalidraw_source_file\"\nDEFAULT_SCENE_APP_STATE = {\n    \"viewBackgroundColor\": \"#f7f1e8\",\n    \"gridSize\": 20,\n    \"gridStep\": 5,\n}\nLOADED_SCENE_APP_STATE_KEYS = {\n    \"gridModeEnabled\",\n    \"gridSize\",\n    \"gridStep\",",
+        "detail": "src.airflow_sketcher.plugins.builder",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_SCENE_APP_STATE",
+        "kind": 5,
+        "importPath": "src.airflow_sketcher.plugins.builder",
+        "description": "src.airflow_sketcher.plugins.builder",
+        "peekOfCode": "DEFAULT_SCENE_APP_STATE = {\n    \"viewBackgroundColor\": \"#f7f1e8\",\n    \"gridSize\": 20,\n    \"gridStep\": 5,\n}\nLOADED_SCENE_APP_STATE_KEYS = {\n    \"gridModeEnabled\",\n    \"gridSize\",\n    \"gridStep\",\n    \"scrollX\",",
+        "detail": "src.airflow_sketcher.plugins.builder",
+        "documentation": {}
+    },
+    {
+        "label": "LOADED_SCENE_APP_STATE_KEYS",
+        "kind": 5,
+        "importPath": "src.airflow_sketcher.plugins.builder",
+        "description": "src.airflow_sketcher.plugins.builder",
+        "peekOfCode": "LOADED_SCENE_APP_STATE_KEYS = {\n    \"gridModeEnabled\",\n    \"gridSize\",\n    \"gridStep\",\n    \"scrollX\",\n    \"scrollY\",\n    \"theme\",\n    \"viewBackgroundColor\",\n    \"viewModeEnabled\",\n    \"zoom\",",
+        "detail": "src.airflow_sketcher.plugins.builder",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "src.airflow_sketcher.plugins.builder",
+        "description": "src.airflow_sketcher.plugins.builder",
+        "peekOfCode": "app = FastAPI()\n@app.get(\"/\", response_class=HTMLResponse)\nasync def excalidraw_builder_page():\n    return HTMLResponse(render_html())\n@app.get(PLUGIN_ICON_LIGHT_PATH)\nasync def excalidraw_builder_icon() -> Response:\n    return Response(\n        content=build_plugin_icon_svg(background=\"#fff3de\", stroke=\"#8e4722\"),\n        media_type=\"image/svg+xml\",\n        headers={\"Cache-Control\": \"public, max-age=3600\"},",
+        "detail": "src.airflow_sketcher.plugins.builder",
+        "documentation": {}
+    },
+    {
+        "label": "ExcalidrawDagImporter",
+        "kind": 6,
+        "importPath": "src.airflow_sketcher.dag_factory",
+        "description": "src.airflow_sketcher.dag_factory",
+        "peekOfCode": "class ExcalidrawDagImporter(AbstractDagImporter):\n    @classmethod\n    def supported_extensions(cls):\n        return ['.excalidraw']\n    def list_dag_files(self, directory, safe_mode=True):\n        path = Path(directory)\n        if path.is_file():\n            return [str(path)] if self.can_handle(path) else []\n        if not path.is_dir():\n            return []",
+        "detail": "src.airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "get_active_elements",
+        "kind": 2,
+        "importPath": "src.airflow_sketcher.dag_factory",
+        "description": "src.airflow_sketcher.dag_factory",
+        "peekOfCode": "def get_active_elements(elements):\n    return [elem for elem in elements if not elem.get('isDeleted', False)]\ndef parse_value(raw_value):\n    raw_value = raw_value.strip()\n    if not raw_value:\n        return raw_value\n    try:\n        return literal_eval(raw_value)\n    except (ValueError, SyntaxError):\n        return raw_value",
+        "detail": "src.airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "parse_value",
+        "kind": 2,
+        "importPath": "src.airflow_sketcher.dag_factory",
+        "description": "src.airflow_sketcher.dag_factory",
+        "peekOfCode": "def parse_value(raw_value):\n    raw_value = raw_value.strip()\n    if not raw_value:\n        return raw_value\n    try:\n        return literal_eval(raw_value)\n    except (ValueError, SyntaxError):\n        return raw_value\ndef evaluate_value(raw_value, import_namespace=None):\n    parsed_value = parse_value(raw_value)",
+        "detail": "src.airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_value",
+        "kind": 2,
+        "importPath": "src.airflow_sketcher.dag_factory",
+        "description": "src.airflow_sketcher.dag_factory",
+        "peekOfCode": "def evaluate_value(raw_value, import_namespace=None):\n    parsed_value = parse_value(raw_value)\n    if parsed_value != raw_value:\n        return parsed_value\n    if import_namespace:\n        try:\n            return eval(raw_value, {'__builtins__': EXCALIDRAW_BUILTINS}, import_namespace)\n        except Exception:\n            pass\n    return raw_value",
+        "detail": "src.airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "execute_python_value",
+        "kind": 2,
+        "importPath": "src.airflow_sketcher.dag_factory",
+        "description": "src.airflow_sketcher.dag_factory",
+        "peekOfCode": "def execute_python_value(raw_value, import_namespace=None):\n    code = raw_value.strip()\n    if not code:\n        return ''\n    try:\n        parsed_code = ast.parse(code, mode='exec')\n    except SyntaxError:\n        return evaluate_value(raw_value, import_namespace)\n    execution_namespace = dict(import_namespace or {})\n    execution_namespace['__builtins__'] = EXCALIDRAW_BUILTINS",
+        "detail": "src.airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "parse_task_argument_blocks",
+        "kind": 2,
+        "importPath": "src.airflow_sketcher.dag_factory",
+        "description": "src.airflow_sketcher.dag_factory",
+        "peekOfCode": "def parse_task_argument_blocks(lines):\n    arg_pattern = re.compile(r'^([A-Za-z_][A-Za-z0-9_]*)\\s*=(.*)$')\n    argument_blocks = []\n    current_key = None\n    current_value_lines = []\n    for line in lines:\n        match = arg_pattern.match(line)\n        if match:\n            if current_key is not None:\n                argument_blocks.append((current_key, '\\n'.join(current_value_lines).strip('\\n')))",
+        "detail": "src.airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "extract_named_blocks",
+        "kind": 2,
+        "importPath": "src.airflow_sketcher.dag_factory",
+        "description": "src.airflow_sketcher.dag_factory",
+        "peekOfCode": "def extract_named_blocks(elements, section_name):\n    header = f'{section_name}:'\n    blocks = []\n    for elem in elements:\n        if elem.get('type') != 'text':\n            continue\n        lines = elem.get('text', '').splitlines()\n        current_block = None\n        for line in lines:\n            stripped_line = line.strip()",
+        "detail": "src.airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "resolve_operator_class",
+        "kind": 2,
+        "importPath": "src.airflow_sketcher.dag_factory",
+        "description": "src.airflow_sketcher.dag_factory",
+        "peekOfCode": "def resolve_operator_class(class_path, import_namespace=None):\n    if not class_path:\n        class_path = DEFAULT_OPERATOR_CLASS_PATH\n    if import_namespace and class_path in import_namespace:\n        return import_namespace[class_path]\n    if class_path.startswith('operators.'):\n        class_path = f\"{STANDARD_OPERATORS_PACKAGE}.{class_path[len('operators.'):]}\"\n    if '.' not in class_path:\n        raise ValueError(\n            f\"Operator class '{class_path}' was not found in the imports/vars namespace and is not a fully qualified path\"",
+        "detail": "src.airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "instantiate_task_node",
+        "kind": 2,
+        "importPath": "src.airflow_sketcher.dag_factory",
+        "description": "src.airflow_sketcher.dag_factory",
+        "peekOfCode": "def instantiate_task_node(operator_class, task_id, dag, operator_kwargs):\n    instance_kwargs = dict(operator_kwargs)\n    has_group_id = 'group_id' in instance_kwargs\n    try:\n        signature = inspect.signature(operator_class)\n    except (TypeError, ValueError):\n        signature = None\n    if signature is None:\n        if not has_group_id and 'task_id' not in instance_kwargs:\n            instance_kwargs['task_id'] = task_id",
+        "detail": "src.airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "extract_import_namespace",
+        "kind": 2,
+        "importPath": "src.airflow_sketcher.dag_factory",
+        "description": "src.airflow_sketcher.dag_factory",
+        "peekOfCode": "def extract_import_namespace(elements):\n    import_namespace = {}\n    for import_block in extract_named_blocks(elements, 'imports'):\n        if not import_block:\n            continue\n        try:\n            parsed_imports = ast.parse(import_block, mode='exec')\n        except SyntaxError as exc:\n            raise ValueError(f'Invalid imports block: {exc}') from exc\n        if any(not isinstance(node, (ast.Import, ast.ImportFrom)) for node in parsed_imports.body):",
+        "detail": "src.airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "extract_vars_namespace",
+        "kind": 2,
+        "importPath": "src.airflow_sketcher.dag_factory",
+        "description": "src.airflow_sketcher.dag_factory",
+        "peekOfCode": "def extract_vars_namespace(elements, import_namespace):\n    vars_namespace = {}\n    for vars_block in extract_named_blocks(elements, 'vars'):\n        if not vars_block:\n            continue\n        try:\n            parsed_vars = ast.parse(vars_block, mode='exec')\n        except SyntaxError as exc:\n            raise ValueError(f'Invalid vars block: {exc}') from exc\n        execution_namespace = {**import_namespace, **vars_namespace}",
+        "detail": "src.airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "extract_evaluation_namespace",
+        "kind": 2,
+        "importPath": "src.airflow_sketcher.dag_factory",
+        "description": "src.airflow_sketcher.dag_factory",
+        "peekOfCode": "def extract_evaluation_namespace(elements):\n    import_namespace = extract_import_namespace(elements)\n    vars_namespace = extract_vars_namespace(elements, import_namespace)\n    return {**import_namespace, **vars_namespace}\ndef is_text_inside_rectangle(rectangle, text_element):\n    rect_left = rectangle.get('x', 0)\n    rect_top = rectangle.get('y', 0)\n    rect_right = rect_left + rectangle.get('width', 0)\n    rect_bottom = rect_top + rectangle.get('height', 0)\n    text_left = text_element.get('x', 0)",
+        "detail": "src.airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "is_text_inside_rectangle",
+        "kind": 2,
+        "importPath": "src.airflow_sketcher.dag_factory",
+        "description": "src.airflow_sketcher.dag_factory",
+        "peekOfCode": "def is_text_inside_rectangle(rectangle, text_element):\n    rect_left = rectangle.get('x', 0)\n    rect_top = rectangle.get('y', 0)\n    rect_right = rect_left + rectangle.get('width', 0)\n    rect_bottom = rect_top + rectangle.get('height', 0)\n    text_left = text_element.get('x', 0)\n    text_top = text_element.get('y', 0)\n    text_right = text_left + text_element.get('width', 0)\n    text_bottom = text_top + text_element.get('height', 0)\n    return (",
+        "detail": "src.airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "get_task_config_from_text",
+        "kind": 2,
+        "importPath": "src.airflow_sketcher.dag_factory",
+        "description": "src.airflow_sketcher.dag_factory",
+        "peekOfCode": "def get_task_config_from_text(text, import_namespace=None):\n    raw_lines = text.splitlines()\n    if not raw_lines:\n        return None\n    first_non_empty_idx = next((idx for idx, line in enumerate(raw_lines) if line.strip()), None)\n    if first_non_empty_idx is None:\n        return None\n    task_id = raw_lines[first_non_empty_idx].strip()\n    task_config = {\n        'task_id': task_id,",
+        "detail": "src.airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "get_text_for_rectangle",
+        "kind": 2,
+        "importPath": "src.airflow_sketcher.dag_factory",
+        "description": "src.airflow_sketcher.dag_factory",
+        "peekOfCode": "def get_text_for_rectangle(rectangle, text_elements):\n    rectangle_group_ids = set(rectangle.get('groupIds', []))\n    for text_element in text_elements:\n        if text_element.get('containerId') == rectangle.get('id'):\n            return text_element\n    if rectangle_group_ids:\n        for text_element in text_elements:\n            text_group_ids = set(text_element.get('groupIds', []))\n            if rectangle_group_ids.intersection(text_group_ids):\n                return text_element",
+        "detail": "src.airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "parse_excalidraw_to_dag",
+        "kind": 2,
+        "importPath": "src.airflow_sketcher.dag_factory",
+        "description": "src.airflow_sketcher.dag_factory",
+        "peekOfCode": "def parse_excalidraw_to_dag(file_path):\n    try:\n        with open(file_path, 'r') as f:\n            data = json.load(f)\n        all_elements = data.get('elements', [])\n        elements = get_active_elements(all_elements)\n        import_namespace = extract_evaluation_namespace(all_elements)\n        dag_attrs = {}\n        for elem in elements:\n            if elem.get('type') == 'text':",
+        "detail": "src.airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "register_airflow_sketcher_importer",
+        "kind": 2,
+        "importPath": "src.airflow_sketcher.dag_factory",
+        "description": "src.airflow_sketcher.dag_factory",
+        "peekOfCode": "def register_airflow_sketcher_importer():\n    registry = get_importer_registry()\n    existing_importer = registry.get_importer('example.excalidraw')\n    if not isinstance(existing_importer, ExcalidrawDagImporter):\n        registry.register(ExcalidrawDagImporter())\n    from airflow.dag_processing.manager import DagFileProcessorManager\n    if getattr(DagFileProcessorManager, '_excalidraw_discovery_patched', False):\n        return\n    original_find_files_in_bundle = DagFileProcessorManager._find_files_in_bundle\n    def _find_files_in_bundle(self, bundle):",
+        "detail": "src.airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "STANDARD_OPERATORS_PACKAGE",
+        "kind": 5,
+        "importPath": "src.airflow_sketcher.dag_factory",
+        "description": "src.airflow_sketcher.dag_factory",
+        "peekOfCode": "STANDARD_OPERATORS_PACKAGE = 'airflow.providers.standard.operators'\nDEFAULT_OPERATOR_CLASS_PATH = f'{STANDARD_OPERATORS_PACKAGE}.empty.EmptyOperator'\nEXCALIDRAW_SOURCE_PARAM_KEY = 'excalidraw_source_file'\nEXCALIDRAW_BUILTINS = dict(vars(builtins))\ndef get_active_elements(elements):\n    return [elem for elem in elements if not elem.get('isDeleted', False)]\ndef parse_value(raw_value):\n    raw_value = raw_value.strip()\n    if not raw_value:\n        return raw_value",
+        "detail": "src.airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_OPERATOR_CLASS_PATH",
+        "kind": 5,
+        "importPath": "src.airflow_sketcher.dag_factory",
+        "description": "src.airflow_sketcher.dag_factory",
+        "peekOfCode": "DEFAULT_OPERATOR_CLASS_PATH = f'{STANDARD_OPERATORS_PACKAGE}.empty.EmptyOperator'\nEXCALIDRAW_SOURCE_PARAM_KEY = 'excalidraw_source_file'\nEXCALIDRAW_BUILTINS = dict(vars(builtins))\ndef get_active_elements(elements):\n    return [elem for elem in elements if not elem.get('isDeleted', False)]\ndef parse_value(raw_value):\n    raw_value = raw_value.strip()\n    if not raw_value:\n        return raw_value\n    try:",
+        "detail": "src.airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "EXCALIDRAW_SOURCE_PARAM_KEY",
+        "kind": 5,
+        "importPath": "src.airflow_sketcher.dag_factory",
+        "description": "src.airflow_sketcher.dag_factory",
+        "peekOfCode": "EXCALIDRAW_SOURCE_PARAM_KEY = 'excalidraw_source_file'\nEXCALIDRAW_BUILTINS = dict(vars(builtins))\ndef get_active_elements(elements):\n    return [elem for elem in elements if not elem.get('isDeleted', False)]\ndef parse_value(raw_value):\n    raw_value = raw_value.strip()\n    if not raw_value:\n        return raw_value\n    try:\n        return literal_eval(raw_value)",
+        "detail": "src.airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "EXCALIDRAW_BUILTINS",
+        "kind": 5,
+        "importPath": "src.airflow_sketcher.dag_factory",
+        "description": "src.airflow_sketcher.dag_factory",
+        "peekOfCode": "EXCALIDRAW_BUILTINS = dict(vars(builtins))\ndef get_active_elements(elements):\n    return [elem for elem in elements if not elem.get('isDeleted', False)]\ndef parse_value(raw_value):\n    raw_value = raw_value.strip()\n    if not raw_value:\n        return raw_value\n    try:\n        return literal_eval(raw_value)\n    except (ValueError, SyntaxError):",
+        "detail": "src.airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "SECTION_HEADERS",
+        "kind": 5,
+        "importPath": "src.airflow_sketcher.dag_factory",
+        "description": "src.airflow_sketcher.dag_factory",
+        "peekOfCode": "SECTION_HEADERS = {'dag:', 'imports:', 'vars:'}\ndef extract_named_blocks(elements, section_name):\n    header = f'{section_name}:'\n    blocks = []\n    for elem in elements:\n        if elem.get('type') != 'text':\n            continue\n        lines = elem.get('text', '').splitlines()\n        current_block = None\n        for line in lines:",
+        "detail": "src.airflow_sketcher.dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "second_func",
+        "kind": 2,
+        "importPath": "tests.fixtures.python_modules.shared_funcs",
+        "description": "tests.fixtures.python_modules.shared_funcs",
+        "peekOfCode": "def second_func(**kwargs):\n    print(\"This is the second function.\")",
+        "detail": "tests.fixtures.python_modules.shared_funcs",
+        "documentation": {}
+    },
+    {
+        "label": "install_airflow_stubs",
+        "kind": 2,
+        "importPath": "tests.support.airflow_stubs",
+        "description": "tests.support.airflow_stubs",
+        "peekOfCode": "def install_airflow_stubs():\n    if importlib.util.find_spec('airflow') is not None:\n        return\n    airflow = types.ModuleType('airflow')\n    airflow.__path__ = []\n    sys.modules['airflow'] = airflow\n    dag_processing = types.ModuleType('airflow.dag_processing')\n    dag_processing.__path__ = []\n    sys.modules['airflow.dag_processing'] = dag_processing\n    importers = types.ModuleType('airflow.dag_processing.importers')",
+        "detail": "tests.support.airflow_stubs",
+        "documentation": {}
+    },
+    {
+        "label": "ExcalidrawDagFactoryTests",
+        "kind": 6,
+        "importPath": "tests.test_dag_factory",
+        "description": "tests.test_dag_factory",
+        "peekOfCode": "class ExcalidrawDagFactoryTests(unittest.TestCase):\n    def parse_fixture(self, filename):\n        return parse_excalidraw_to_dag(str(FIXTURE_DIAGRAMS_DIR / filename))\n    def test_parses_branching_dag_from_excalidraw_file(self):\n        dag = self.parse_fixture('dag2.excalidraw')\n        self.assertEqual(dag.dag_id, 'aaa_my_second_dag')\n        self.assertEqual(dag.schedule, '@daily')\n        self.assertEqual(dag.params[EXCALIDRAW_SOURCE_PARAM_KEY], 'dag2.excalidraw')\n        self.assertEqual(set(dag.task_dict), {'task_a', 'task_b', 'task_c', 'task_d', 'task_e'})\n        self.assertEqual(type(dag.task_dict['task_a']).__name__, 'BashOperator')",
+        "detail": "tests.test_dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "REPO_ROOT",
+        "kind": 5,
+        "importPath": "tests.test_dag_factory",
+        "description": "tests.test_dag_factory",
+        "peekOfCode": "REPO_ROOT = Path(__file__).resolve().parents[1]\nSRC_DIR = REPO_ROOT / 'src'\nFIXTURE_MODULES_DIR = REPO_ROOT / 'tests' / 'fixtures' / 'python_modules'\nFIXTURE_DIAGRAMS_DIR = REPO_ROOT / 'tests' / 'fixtures' / 'excalidraw'\nfor path in (SRC_DIR, FIXTURE_MODULES_DIR):\n    path_str = str(path)\n    if path_str not in sys.path:\n        sys.path.insert(0, path_str)\ninstall_airflow_stubs()\nfrom airflow_sketcher.dag_factory import EXCALIDRAW_SOURCE_PARAM_KEY, parse_excalidraw_to_dag",
+        "detail": "tests.test_dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "SRC_DIR",
+        "kind": 5,
+        "importPath": "tests.test_dag_factory",
+        "description": "tests.test_dag_factory",
+        "peekOfCode": "SRC_DIR = REPO_ROOT / 'src'\nFIXTURE_MODULES_DIR = REPO_ROOT / 'tests' / 'fixtures' / 'python_modules'\nFIXTURE_DIAGRAMS_DIR = REPO_ROOT / 'tests' / 'fixtures' / 'excalidraw'\nfor path in (SRC_DIR, FIXTURE_MODULES_DIR):\n    path_str = str(path)\n    if path_str not in sys.path:\n        sys.path.insert(0, path_str)\ninstall_airflow_stubs()\nfrom airflow_sketcher.dag_factory import EXCALIDRAW_SOURCE_PARAM_KEY, parse_excalidraw_to_dag\nclass ExcalidrawDagFactoryTests(unittest.TestCase):",
+        "detail": "tests.test_dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "FIXTURE_MODULES_DIR",
+        "kind": 5,
+        "importPath": "tests.test_dag_factory",
+        "description": "tests.test_dag_factory",
+        "peekOfCode": "FIXTURE_MODULES_DIR = REPO_ROOT / 'tests' / 'fixtures' / 'python_modules'\nFIXTURE_DIAGRAMS_DIR = REPO_ROOT / 'tests' / 'fixtures' / 'excalidraw'\nfor path in (SRC_DIR, FIXTURE_MODULES_DIR):\n    path_str = str(path)\n    if path_str not in sys.path:\n        sys.path.insert(0, path_str)\ninstall_airflow_stubs()\nfrom airflow_sketcher.dag_factory import EXCALIDRAW_SOURCE_PARAM_KEY, parse_excalidraw_to_dag\nclass ExcalidrawDagFactoryTests(unittest.TestCase):\n    def parse_fixture(self, filename):",
+        "detail": "tests.test_dag_factory",
+        "documentation": {}
+    },
+    {
+        "label": "FIXTURE_DIAGRAMS_DIR",
+        "kind": 5,
+        "importPath": "tests.test_dag_factory",
+        "description": "tests.test_dag_factory",
+        "peekOfCode": "FIXTURE_DIAGRAMS_DIR = REPO_ROOT / 'tests' / 'fixtures' / 'excalidraw'\nfor path in (SRC_DIR, FIXTURE_MODULES_DIR):\n    path_str = str(path)\n    if path_str not in sys.path:\n        sys.path.insert(0, path_str)\ninstall_airflow_stubs()\nfrom airflow_sketcher.dag_factory import EXCALIDRAW_SOURCE_PARAM_KEY, parse_excalidraw_to_dag\nclass ExcalidrawDagFactoryTests(unittest.TestCase):\n    def parse_fixture(self, filename):\n        return parse_excalidraw_to_dag(str(FIXTURE_DIAGRAMS_DIR / filename))",
+        "detail": "tests.test_dag_factory",
+        "documentation": {}
+    }
+]
