@@ -7,6 +7,7 @@ name = 'airflow-sketcher'
 version = '0.1.0'
 description = 'Airflow Sketcher plugin and DAG factory for Excalidraw-based DAG authoring.'
 readme = 'README.md'
+license = { text = 'MIT' }
 requires-python = '>=3.11'
 dependencies = [
     'apache-airflow>=3.0,<4.0',
